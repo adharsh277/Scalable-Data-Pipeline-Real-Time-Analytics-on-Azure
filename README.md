@@ -66,12 +66,27 @@ crm-data-platform/
 ├── diagrams/              # Architecture diagrams (draw.io, PNGs)
 ├── README.md              # Documentation
 └── .gitignore
-⚙️ How to Run the Project
+
+
+##📸 Screenshots
+## 📸 Screenshots
+
+## 🔥 Databricks
+
+![Databricks Screenshot 1](assets/Screenshot%20(926).png)
+![Databricks Screenshot 2](assets/Screenshot%20(927).png)
+![Databricks Screenshot 3](assets/Screenshot%20(933).png)
+
+## 📊 Power BI Report
+
+![Power BI Report](assets/Order%20&%20Product%20Trends%20Report_page-0001.jpg)
+
+## ⚙️ How to Run the Project
 1️⃣ Clone the Repository
 
 git clone https://github.com/adharsh277/Scalable-Data-Pipeline-Real-Time-Analytics-on-Azure.git
 cd Scalable-Data-Pipeline-Real-Time-Analytics-on-Azure
-2️⃣ Set up Azure Resources
+## 2️⃣ Set up Azure Resources
 Create Azure Data Lake Storage Gen2 (with Raw, Curated containers).
 
 Deploy Azure Data Factory (import pipeline JSONs).
@@ -82,7 +97,7 @@ Provision Azure Synapse SQL Pool.
 
 Connect Power BI to Synapse.
 
-3️⃣ Run ETL Pipelines
+## 3️⃣ Run ETL Pipelines
 In ADF, trigger Ingestion pipeline → loads raw CRM files to Data Lake.
 
 ADF triggers Databricks notebooks → PySpark jobs clean & transform.
@@ -153,18 +168,7 @@ Delivering business-ready insights in Power BI.
 
 Applying DevOps practices in Data & AI.
 
-##📸 Screenshots
-## 📸 Screenshots
 
-## 🔥 Databricks
-
-![Databricks Screenshot 1](assets/Screenshot%20(926).png)
-![Databricks Screenshot 2](assets/Screenshot%20(927).png)
-![Databricks Screenshot 3](assets/Screenshot%20(933).png)
-
-## 📊 Power BI Report
-
-![Power BI Report](assets/Order%20&%20Product%20Trends%20Report_page-0001.jpg)
 
 
 
