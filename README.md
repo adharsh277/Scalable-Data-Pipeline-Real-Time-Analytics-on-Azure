@@ -153,10 +153,22 @@ Delivering business-ready insights in Power BI.
 
 Applying DevOps practices in Data & AI.
 
-📸 Screenshots
-📌 Add diagrams from your diagrams/ folder and Power BI screenshots here.
+##📸 Screenshots
+## 📸 Screenshots
 
-🙏 Acknowledgments
+## 🔥 Databricks
+
+![Databricks Screenshot 1](assets/Screenshot%20(926).png)
+![Databricks Screenshot 2](assets/Screenshot%20(927).png)
+![Databricks Screenshot 3](assets/Screenshot%20(933).png)
+
+## 📊 Power BI Report
+
+![Power BI Report](assets/Order%20&%20Product%20Trends%20Report_page-0001.jpg)
+
+
+
+##🙏 Acknowledgments
 Thanks to Microsoft Azure, Databricks, and open-source PySpark libraries for enabling enterprise data solutions.
 
 pgsql
