@@ -50,6 +50,9 @@ It ingests raw CRM data, transforms it into curated datasets, loads into a **Syn
   - 📈 Customer Lifetime Value (CLV)  
   - 🔁 Retention & Churn Trends
  
+## Architecture Diagram
+![Architecture Diagram ](assets/arc_diagram.png)
+ 
 
 ## 🏗️ Project Structure  
 
