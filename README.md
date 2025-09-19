@@ -51,7 +51,7 @@ It ingests raw CRM data, transforms it into curated datasets, loads into a **Syn
   - 🔁 Retention & Churn Trends
  
 ## Architecture Diagram
-![Architecture Diagram ](assets/arc_diagram.png)
+![Architecture Diagram ](assets/arc-diagram.png)
  
 
 ## 🏗️ Project Structure  
