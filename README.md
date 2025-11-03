@@ -1,5 +1,6 @@
 # Scalable Data Pipeline & Real-Time Analytics on Azure  
 
+
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure)
 ![Databricks](https://img.shields.io/badge/Databricks-ETL-red?logo=databricks)
 ![Synapse](https://img.shields.io/badge/Azure-Synapse_SQL-lightblue?logo=azure-synapse-analytics)
