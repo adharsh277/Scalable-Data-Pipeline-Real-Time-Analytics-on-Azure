@@ -19,6 +19,10 @@ This project demonstrates an **enterprise-grade data engineering and analytics p
 
 It ingests raw CRM data, transforms it into curated datasets, loads into a **Synapse Data Warehouse**, and visualizes insights in **Power BI**. The project is designed to be **scalable, modular, and production-ready**, reflecting real-world Data & AI solutions.  
 
+
+## Architecture Diagram
+![Architecture Diagram ](assets/arc-diagram.png)
+
 ---
 
 ## 🧰 Tech Stack  
@@ -51,8 +55,6 @@ It ingests raw CRM data, transforms it into curated datasets, loads into a **Syn
   - 📈 Customer Lifetime Value (CLV)  
   - 🔁 Retention & Churn Trends
  
-## Architecture Diagram
-![Architecture Diagram ](assets/arc-diagram.png)
  
 
 ## 🏗️ Project Structure  
