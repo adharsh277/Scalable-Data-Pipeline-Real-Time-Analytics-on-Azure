@@ -14,7 +14,7 @@
 
 ## 📌 Project Overview  
 
-This project demonstrates an **enterprise-grade data engineering and analytics platform** built on **Azure Cloud**.  
+**This project demonstrates an enterprise-grade data engineering and analytics platform built on Azure Cloud**.  
 
 It ingests raw CRM data, transforms it into curated datasets, loads into a **Synapse Data Warehouse**, and visualizes insights in **Power BI**. The project is designed to be **scalable, modular, and production-ready**, reflecting real-world Data & AI solutions.  
 ---
